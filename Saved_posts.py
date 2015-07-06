@@ -3,7 +3,7 @@ Bot to organize your saved posts. It writes your post, and the post url to a fil
 [subreddit].txt in a direcotry called 'Saved_Posts which is created wherever you want it.
 Posts are organized by subreddit.
 """
-
+#!/usr/bin/env python
 import praw
 import argparse
 import os
